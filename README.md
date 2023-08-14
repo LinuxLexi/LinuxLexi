@@ -35,7 +35,9 @@
 
 <h3 align="center">💰 Support Me</h3>
  <p align="center"> 
-<a href="https://www.buymeacoffee.com/riverdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
+<a href="https://www.buymeacoffee.com/linuxlexi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
+<a href="https://www.buymeacoffee.com/linuxlexi" target="_blank"><img src="https://imgur.com/a/ouwwhiE" alt="Ko-Fi" width="200" ></a>
+  
 </p>
 
  <h3 align="center"> 📞 Contact Me </h3>
