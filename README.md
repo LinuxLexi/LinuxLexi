@@ -1,4 +1,4 @@
-<h1 align="right"><img src="https://i.ibb.co/Tbhvg1t/EC4-B4346-1-DC9-40-E8-9-DD7-1-CE878-FAC9-F0.png" alt="Header-Image" align="right" width="250" height="250" /></h1>
+<h1 align="right"><img src="https://cdn.discordapp.com/attachments/724240959931678761/1140661556347142297/IMG_5109.png" alt="Header-Image" align="right" width="250" height="250" /></h1>
 
 
 <h1 align="center"><i>Hi 👋, I'm Lexi </i></h1>
@@ -40,7 +40,7 @@
 
  <h3 align="center"> 📞 Contact Me </h3>
  <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/589807732522221601.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-1/316390441262252033.png" alt="Discord"/>
 </p>
 
 <!--
