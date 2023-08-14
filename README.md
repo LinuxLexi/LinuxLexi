@@ -25,7 +25,7 @@
 
 <h3 align="center">✍️ Blogs</h3>
 <p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
-<a align="center" href="https://dev.to/riverdev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
+<a align="center" href="https://dev.to/linuxlexi" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
 </p>
 
 <h3 align="center">📈 Visitor's Count</h3>
